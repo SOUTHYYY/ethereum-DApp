@@ -1,0 +1,14 @@
+{
+  "name": "ethereum-DApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SOUTHYYY/ethereum-DApp.git",
+  "author": "SOUHTYYY <leshka.l1337@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loom-truffle-provider": "^0.13.0",
+    "scrypt": "github:barrysteyn/node-scrypt#fb60a8d3c158fe115a624b5ffa7480f3a24b03fb",
+    "truffle": "^5.4.6",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
